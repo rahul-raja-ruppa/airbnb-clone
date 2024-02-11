@@ -1,3 +1,21 @@
+# Welcome 🖐 to the Airbnb React App Website
+
+This is a React application that offers personalized home stays and rental options. It utilizes MongoDB to store user credentials and home records. I've implemented features like asynchronous functions, useState hook, and integrated APIs into the app.
+
+## 💻Tech Stack
+<br>
+
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![REACT](https://img.shields.io/badge/react%20-%23628395.svg?&style=for-the-badge&logo=react&logoColor=%2300C1D4)
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+<br>
+
+
+
 # airbnb-clone
 Airbnb app: Discover and book unique accommodations worldwide, from cozy apartments to luxurious villas. Explore detailed property descriptions, reviews, and secure payment options for seamless travel planning. Connect with hosts and guests for unforgettable travel experiences.
 
