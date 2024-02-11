@@ -1,6 +1,6 @@
 # Welcome 🖐 to the Airbnb React App Website
 
-This is a React application that offers personalized home stays and rental options. It utilizes MongoDB to store user credentials and home records. I've implemented features like asynchronous functions, useState hook, and integrated APIs into the app.
+This is a React application that provides personalized home stays and rental options, with React used for front-end development. It leverages Express.js and Node.js for backend functionalities, while MongoDB stores user credentials and home records. The app also includes features such as asynchronous functions, useState hooks, and API integration.
 
 ## 💻Tech Stack
 <br>
